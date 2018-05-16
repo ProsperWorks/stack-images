@@ -52,6 +52,7 @@ imagemagick
 imagemagick-6-common
 imagemagick-6.q16
 init-system-helpers
+iproute2
 iputils-tracepath
 language-pack-en
 language-pack-en-base
